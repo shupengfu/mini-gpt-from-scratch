@@ -26,7 +26,8 @@ gpt predicts the next token one by one. transformer is based on self attention..
 Random sampling generation:
 
 gpt predicts the next token one bat transhed by one...
-Analysis
+
+## Analysis
 
 The model is able to generate text similar to the training corpus.
 
